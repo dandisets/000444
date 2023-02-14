@@ -34,8 +34,7 @@ contributor:
 dateCreated: '2023-02-14T18:52:17.877669+00:00'
 description: Data to accompany the pending publication "Dynamic corticothalamic gain
   modulation of the somatosensory thalamocortical circuit during wakefulness"
-ethicsApproval:
-- {}
+ethicsApproval: []
 id: DANDI:000444/draft
 identifier: DANDI:000444
 keywords:
