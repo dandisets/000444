@@ -45,7 +45,7 @@ keywords:
 - sensory processing
 - somatosensation
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000444/versions/draft/assets/
 name: Dynamic corticothalamic gain modulation of the somatosensory thalamocortical
