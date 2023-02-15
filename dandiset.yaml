@@ -18,8 +18,7 @@ contributor:
   email: elaidad@gmail.com
   includeInCitation: true
   name: Dimwamwa, Elaida
-  roleName:
-  - dcite:ContactPerson
+  roleName: []
   schemaKey: Person
 - affiliation: []
   email: garrett.stanley@bme.gatech.edu
