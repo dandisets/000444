@@ -7,12 +7,29 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 165272
+  numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - ElectrodeGroup
 citation: Dimwamwa, Elaida; Stanley, Garrett (2023) Dynamic corticothalamic gain modulation
   of the somatosensory thalamocortical circuit during wakefulness (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000444/draft
+  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   email: elaidad@gmail.com
@@ -30,9 +47,18 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
   url: https://stanley.gatech.edu/
+- awardNumber: NIH NINDS RF1NS128896
+  contactPoint: []
+  includeInCitation: false
+  name: NIH NINDS
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2023-02-14T18:52:17.877669+00:00'
+datePublished: '2023-02-16T19:14:24.072509+00:00'
 description: Data to accompany the pending publication "Dynamic corticothalamic gain
   modulation of the somatosensory thalamocortical circuit during wakefulness"
+doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000444/draft
 identifier: DANDI:000444
@@ -50,6 +76,18 @@ manifestLocation:
 name: Dynamic corticothalamic gain modulation of the somatosensory thalamocortical
   circuit during wakefulness
 protocol: []
+publishedBy:
+  endDate: '2023-02-16T19:14:24.072509+00:00'
+  id: urn:uuid:c344fb44-0b25-4aeb-a0e6-23cd56fd0090
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-02-16T19:14:24.072509+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f051be6f-a983-4e65-bfd4-7f1fb1ae9fd2
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
