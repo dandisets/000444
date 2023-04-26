@@ -38,7 +38,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-02-14T18:52:17.877669+00:00'
-datePublished: '2023-02-16T20:58:29.329189+00:00'
+datePublished: '2023-04-26T17:52:16.010727+00:00'
 description: Data to accompany the pending publication "Dynamic corticothalamic gain
   modulation of the somatosensory thalamocortical circuit during wakefulness"
 doi: 10.80507/dandi.123456/0.123456.1234
@@ -60,13 +60,13 @@ name: Dynamic corticothalamic gain modulation of the somatosensory thalamocortic
   circuit during wakefulness
 protocol: []
 publishedBy:
-  endDate: '2023-02-16T20:58:29.329189+00:00'
-  id: urn:uuid:f657c521-58d7-461c-a334-235ac2c377a3
+  endDate: '2023-04-26T17:52:16.010727+00:00'
+  id: urn:uuid:457c017c-f652-4b54-823e-eda40a1feb97
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-02-16T20:58:29.329189+00:00'
+  startDate: '2023-04-26T17:52:16.010727+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:03f64877-1c2b-4acd-af26-c691e6b12734
+  - id: urn:uuid:2e7eccfa-740e-482b-ac50-40c191785c66
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
